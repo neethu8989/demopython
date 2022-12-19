@@ -1,0 +1,11 @@
+.banner{
+background-color:green;
+width=200%;
+height=200%;
+}
+.banner-text
+{
+color: yellow;
+text-align: center;
+text-shadow:2px 3px;
+}
